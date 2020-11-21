@@ -2,4 +2,5 @@
 
 Inspired by daisy and the bees
 
-![Test Image 1](sample.png)
+
+![sample image](https://github.com/daisyliu618/daisyColorTheme/blob/main/sample.png)
