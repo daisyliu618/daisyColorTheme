@@ -1,0 +1,31 @@
+{
+  "name": "daisyTheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  {
+    "publisher": "DaisyLiu",
+    "engines": {
+      "vscode": "^1.0.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "test-theme",
+          "uiTheme": "vs-dark",
+          "path": "./themes/theme-name.json"
+        }
+      ]
+    },
+
+  "displayName": "daisy Theme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
