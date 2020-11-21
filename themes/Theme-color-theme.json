@@ -12,11 +12,11 @@
   "progressBar.background": "#F5CE16",
   "pickerGroup.foreground": "#FF4081",
   "tab.activeBorder": "#FF4081",
-  "notificationLink.foreground": #FFFFFF,
+  "notificationLink.foreground": "#FFFFFF",
   "editorWidget.resizeBorder": "#FF4081",
   "editorWidget.border": "#FF4081",
   "settings.modifiedItemIndicator": "#FF4081",
-  "settings.headerForeground": #FFFFFF,
+  "settings.headerForeground": "#FFFFFF",
   "panelTitle.activeBorder": "#FF4081",
   "breadcrumb.activeSelectionForeground": "#FF4081",
   "menu.selectionForeground": "#F5CE16",
@@ -134,6 +134,6 @@
       }
     }
 
-]
+ ]
 }
 
