@@ -3,4 +3,4 @@
 Inspired by daisy and the bees
 
 
-![sample image](https://github.com/daisyliu618/daisyColorTheme/blob/main/sample.png)
+![sample image](https://raw.githubusercontent.com/daisyliu618/daisyColorTheme/main/sample.png)
