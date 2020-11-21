@@ -33,6 +33,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "daisy-icon.png",
   "contributes": {
     "themes": [
       {
