@@ -25,14 +25,49 @@
   "selection.background": "#FF408140",
   "functions": "#8DDB1F",
   "strings": "#F6F489",
-  "variables": "#F5CE16",
+  "variables": "#96D8FB",
   "Class name":"#48ADC3",
   "keywords": "#F88F5F",
-  "types": "#A5DD6E"
+  "types": "#A5DD6E",
+  
 
 },
 
 "tokenColors": [
+  {
+    "name": "Language Constants in Python",
+    "scope": "constant.language.python",
+    "settings": {
+      "foreground": "#96D8FB",
+    }
+  },
+  {
+    "name": "Python Function Parameter and Arguments",
+    "scope": [
+      "variable.parameter.function.python",
+      "meta.function-call.arguments.python"
+    ],
+    "settings": {
+      "foreground": "#8DDB1F",
+    }
+  },
+  {
+    "name": "Python Function Call",
+    "scope": [
+      "meta.function-call.python",
+      "meta.function-call.generic.python"
+    ],
+    "settings": {
+      "foreground": "#F88F5F",
+    }
+  },
+  {
+    "name": "Punctuations in Python",
+    "scope": "punctuation.python",
+    "settings": {
+      "foreground": "#9E6BF3"
+    }
+  },
   {
     "name": "Comment",
     "scope": "comment",
@@ -41,13 +76,7 @@
     "fontStyle": "bold"
     }
     },
-    {
-      "name": "variable",
-      "scope": "variables",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
+    
     {
       "name": "Variable Instances",
       "scope": [
