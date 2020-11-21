@@ -1,31 +1,45 @@
 {
-  "name": "daisyTheme",
+  "name": "daisy-theme",
+  "displayName": "Daisy theme",
+  "description": "A VS Code theme inspired by daisy and the bees",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "publisher": "daisyliu",
+  "license": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daisyliu618/daisyColorTheme"
   },
-  {
-    "publisher": "DaisyLiu",
-    "engines": {
-      "vscode": "^1.0.0"
-    },
-    "categories": [
-      "Themes"
-    ],
-    "contributes": {
-      "themes": [
-        {
-          "label": "test-theme",
-          "uiTheme": "vs-dark",
-          "path": "./themes/theme-name.json"
-        }
-      ]
-    },
-
-  "displayName": "daisy Theme",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "Night Owl",
+    "Night Theme",
+    "Light Owl",
+    "Snow Owl",
+    "Early Bird",
+    "Accessible Theme"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#061526",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme-color-theme.json"
+      }
+    ]
+  }
 }
