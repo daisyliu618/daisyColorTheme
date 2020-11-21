@@ -1,3 +1,5 @@
-# daisyColorTheme
+# Daisy Color Theme 
 
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls 308”>
+inspired by daisy and the bees
+
+![Test Image 1](sample.png)
